@@ -1,0 +1,238 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 23.12.2020 21:04:20
+
+newmtl Material__51
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\zhao-\Documents\3D tekniikka\texture\Unwrap UVW-majakka.png
+	map_Kd C:\Users\zhao-\Documents\3D tekniikka\texture\Unwrap UVW-majakka.png
+
+newmtl Land_grass
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0314 0.4353 0.0000
+	Kd 0.0314 0.4353 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Land_mountain
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1137 0.1137 0.1137
+	Kd 0.1137 0.1137 0.1137
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1216 0.0745 0.0000
+	Kd 0.1216 0.0745 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_028089177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1098 0.3490 0.6941
+	Kd 0.1098 0.3490 0.6941
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Rope2_color
+	Kd 0.4431 0.2118 0.0745
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl Material__52
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3373 0.1843 0.0706
+	Kd 0.3373 0.1843 0.0706
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	norm C:\Users\zhao-\Documents\3D tekniikka\texture\TexturesCom_Wood_PlanksOld_512_normal.tif
+
+newmtl Material__147
+	Ns 8.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.3216 0.1647
+	Kd 0.5373 0.3216 0.1647
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	norm C:\Users\zhao-\Documents\3D tekniikka\texture\TexturesCom_Wood_PlanksOld_512_normal.tif
+
+newmtl wire_227153153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8902 0.6000 0.6000
+	Kd 0.8902 0.6000 0.6000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_085028177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3333 0.1098 0.6941
+	Kd 0.3333 0.1098 0.6941
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Rope_color
+	Kd 0.5294 0.2902 0.1451
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl Material__2
+	Kd 0.0000 0.3882 0.0196
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+
+newmtl Material__142
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4863 0.4863 0.4863
+	Kd 0.4863 0.4863 0.4863
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump C:\Users\zhao-\Documents\3D tekniikka\texture\smaller-rock-normalMap.jpg
+	bump C:\Users\zhao-\Documents\3D tekniikka\texture\smaller-rock-normalMap.jpg
+
+newmtl Material__138
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2235 0.7373 0.8314
+	Kd 0.2235 0.7373 0.8314
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__150
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5529 0.4588 0.4588
+	Kd 0.5529 0.4588 0.4588
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump C:\Users\zhao-\Documents\3D tekniikka\texture\TexturesCom_RockBlocky0071_8_seamless_S.jpg
+	bump C:\Users\zhao-\Documents\3D tekniikka\texture\TexturesCom_RockBlocky0071_8_seamless_S.jpg
+
+newmtl Material__143
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5529 0.4588 0.4588
+	Kd 0.5529 0.4588 0.4588
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump C:\Users\zhao-\Documents\3D tekniikka\texture\smaller-rock-normalMap.jpg
+	bump C:\Users\zhao-\Documents\3D tekniikka\texture\smaller-rock-normalMap.jpg
+
+newmtl Material__149
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7176 0.6980 0.1255
+	Kd 0.7176 0.6980 0.1255
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump C:\Users\zhao-\Documents\3D tekniikka\texture\rock_tile.jpg
+	bump C:\Users\zhao-\Documents\3D tekniikka\texture\rock_tile.jpg
+
+newmtl wire_027177148
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1059 0.6941 0.5804
+	Kd 0.1059 0.6941 0.5804
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_154154229
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6039 0.6039 0.8980
+	Kd 0.6039 0.6039 0.8980
+	Ks 0.3500 0.3500 0.3500
